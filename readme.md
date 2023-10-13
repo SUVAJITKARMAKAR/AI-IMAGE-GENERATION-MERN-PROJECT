@@ -7,7 +7,7 @@
 
 #### In an age where technology continues to push the boundaries of human creativity and innovation, the advent of artificial intelligence (AI) has become a transformative force in various industries. One such marvel of AI technology is DALL-E, a cutting-edge neural network developed by OpenAI, which is redefining the way we think about image generation. Our project, the AI Image Generating Web Application, harnesses the power of DALL-E to provide a revolutionary platform that empowers users to create stunning and imaginative images like never before.
 
-#### DALL-E, introduced by OpenAI, is a remarkable AI model that combines the power of GPT-3's text generation with the ability to generate images from textual descriptions. This groundbreaking technology allows us to bridge the gap between language and visual art, enabling users to dream up, describe, and visualize images that were once limited by traditional graphic design tools.
+#### DALL-E, introduced by OpenAI, is a remarkable AI model that combines the power of OPEN-AI4s text generation with the ability to generate images from textual descriptions. This groundbreaking technology allows us to bridge the gap between language and visual art, enabling users to dream up, describe, and visualize images that were once limited by traditional graphic design tools.
 
 
 
